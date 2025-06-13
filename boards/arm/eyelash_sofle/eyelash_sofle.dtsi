@@ -76,7 +76,7 @@
     };
 
     vbatt: vbatt {
-        compatible = "zmk,battery-nrf-vddh";
+       compatible = "zmk,battery-nrf-vddh";
        init-delay-ms = <50>;
     };
 
